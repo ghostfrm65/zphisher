@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash git clone --depth=1 https://github.com/htr-tech/zphisher.git
 
 ##   Zphisher 	: 	Automated Phishing Tool
 ##   Author 	: 	TAHMID RAYAT 
